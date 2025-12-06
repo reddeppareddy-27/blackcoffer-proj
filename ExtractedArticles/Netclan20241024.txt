@@ -1,0 +1,18 @@
+ROAS Dashboard for Campaign-Wise Google Ads Budget Tracking Using Google Ads AP
+Client: A leading IT & tech firm in the USA
+Industry Type: IT
+Products & Services: IT Consulting, IT Support, SaaS
+Organization Size: 200+
+Create a ROASing dashboard to fetch google ads budget spent data using google ads api(campaign-wise). The challenge is to develop a ROAS (Return on Ad Spend) dashboard that efficiently retrieves and displays Google Ads budget spent data on a campaign-wise basis using the Google Ads API. The current system lacks a streamlined method for tracking and analyzing ad spend across various campaigns, leading to difficulties in assessing performance and optimizing budget allocation. The goal is to create a comprehensive dashboard that accurately fetches and visualizes budget data, enabling more effective analysis and decision-making. This involves integrating with the Google Ads API, ensuring data accuracy, and providing clear, actionable insights for better campaign management.
+4o mini
+ETL Tool
+Dashboard
+Documentations
+Source codes
+Support and Maintenance
+Getting the Google Ads campaigns data
+Used the google Ads APIs
+https://roasing.com
+Summarized: https://blackcoffer.com/
+This project was done by the Blackcoffer Team, a Global IT Consulting firm.
+This solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy
